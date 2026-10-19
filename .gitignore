@@ -1,0 +1,27 @@
+# Credenciais e configuração local
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Arquivos locais de execução; fixtures e evidências sanitizadas podem ser versionadas
+.cache/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

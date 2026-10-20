@@ -235,8 +235,6 @@ Entregue um repositório que permita a outra pessoa instalar, executar e avaliar
 - Uma nota de arquitetura de **até duas páginas**, com desenho simples, decisões, alternativas descartadas, riscos e próximos passos.
 - Registro do tempo gasto, pendências e uso de assistentes de IA, se houver.
 
-Na nota de arquitetura, explique como esta solução poderia evoluir no Garden para: permissões por usuário/tenant; versionamento e desativação de tools; catálogos maiores; controle de custo; monitoramento e avaliação contínua. Discuta pelo menos um risco concreto e uma alternativa rejeitada. **Essa evolução é uma discussão de projeto, não uma exigência de implementação de uma plataforma multi-tenant.**
-
 Organização sugerida, adaptável à sua solução:
 
 ```text

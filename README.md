@@ -278,8 +278,6 @@ Organize a demonstração inicial para mostrar:
 3. **Um erro tratado:** uma entrada inválida, falha externa ou limite atingido, com o comportamento da aplicação e os registros correspondentes.
 4. **Os testes e as evidências:** como executar as verificações, quais resultados foram obtidos e o que ainda precisa ser validado.
 
-Na conversa, esteja preparado para explicar a estrutura do código, os contratos das tools, o uso do Agents SDK, o cache, os controles de execução e as escolhas de modelo. Vamos discutir também alternativas consideradas, limitações, prioridades para uma próxima iteração e como a solução poderia evoluir no Garden.
-
 As pendências devem estar documentadas e podem ser discutidas durante a dinâmica. Se uma dependência externa estiver indisponível, use as evidências e os testes offline, identificando claramente o que foi simulado.
 
 ## 12. Referências

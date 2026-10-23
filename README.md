@@ -2,13 +2,13 @@
 
 ## PokéGarden — agentes, dados e descoberta de ferramentas
 
-Desafio de **Engenharia de IA** para apresentação e discussão em uma entrevista técnica, com foco no trabalho de engenharia de agentes do Garden.
+Desafio de **Engenharia de IA** para apresentação e discussão em uma entrevista técnica, com foco no trabalho de engenharia de agentes
 
 Construa um assistente que responda perguntas sobre Pokémon usando o **OpenAI Agents SDK para Python**, dados da **PokéAPI** e um **catálogo extensível de tools**. O assistente deve descobrir as ferramentas necessárias, consultar dados verificáveis e explicar sua resposta com fontes.
 
 Você terá **uma semana (7 dias corridos) a partir do recebimento do desafio** para desenvolver a solução e preparar sua apresentação. Na entrevista, vamos explorar o funcionamento da aplicação, as decisões tomadas, os testes e as possibilidades de evolução.
 
-Este repositório contém o enunciado. A implementação é responsabilidade da pessoa candidata. Não é necessário ter acesso ao código, às credenciais ou aos ambientes internos do Garden.
+Este repositório contém o enunciado. A implementação é responsabilidade da pessoa candidata. 
 
 ## 1. Contexto e objetivo
 
